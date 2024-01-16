@@ -6,7 +6,7 @@
 
 
 1.  Final deployed urls of the application
-[Pharmacy Management System](https://pharmacymanagementclient.azurewebsites.net/).
+[Pharmacy Management System](https://pharmacymanagementsystemnextfromvs.azurewebsites.net/home).
 
 2. Design
        ![System Digram](/images/diagram.png)
@@ -33,3 +33,4 @@ g. JWT for authentication
 h. Azure Cosmos NoSQL DB for database storage
 
 ##### Link of my project demo video
+[Demo Presentation Video Link on Youtube](https://youtu.be/Z4oQ7b0eSfQ)
