@@ -1,8 +1,8 @@
 # Prescription Managment System
 ##  Github Links For diffrent repos or services
-[FrontEnd Repo](https://github.com/krycnylmz/PharmacyManagementFrontEnd).
-[Medicine Servis](https://github.com/krycnylmz/MedicineServiceWebApp).
-[TimeTrigger Function App to reload all medicines](https://github.com/krycnylmz/ReloadAllMedicinesTimeFunctionApp).
+1. [FrontEnd Repo](https://github.com/krycnylmz/PharmacyManagementFrontEnd).
+2. [Medicine Servis](https://github.com/krycnylmz/MedicineServiceWebApp).
+3. [TimeTrigger Function App to reload all medicines](https://github.com/krycnylmz/ReloadAllMedicinesTimeFunctionApp).
 
 
 1.  Final deployed urls of the application
@@ -17,7 +17,7 @@
 
     1. Cors Error (There is an error accured on my api gateway about CORS but I can't fixed)
 
-## 6. Tech Stack
+## Tech Stack
 ### Front-end
 a. Next.js
 b. Tailwind.css
