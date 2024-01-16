@@ -17,13 +17,12 @@
 
     1. Cors Error (There is an error accured on my api gateway about CORS but I can't fixed)
 
-5. Data models (i.e an ER)
-6. Tech Stack
-7. Front-end
+## 6. Tech Stack
+### Front-end
 a. Next.js
 b. Tailwind.css
 c. DaisyUI
-1. Back-end
+### Back-end
 a. .Net Core Api
 b. Swagger
 c. Azure Cloud Services
@@ -32,8 +31,5 @@ e. Azure API Gateway for routing requests
 f. git
 g. JWT for authentication
 h. Azure Cosmos NoSQL DB for database storage
-i.
-j.
-k.
-l.
-1. Link of my project demo video
+
+##### Link of my project demo video
