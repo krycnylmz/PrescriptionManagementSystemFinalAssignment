@@ -2,6 +2,8 @@
 ##  Github Links For diffrent repos or services
 [FrontEnd Repo](https://github.com/krycnylmz/PharmacyManagementFrontEnd).
 [Medicine Servis](https://github.com/krycnylmz/MedicineServiceWebApp).
+[TimeTrigger Function App to reload all medicines](https://github.com/krycnylmz/ReloadAllMedicinesTimeFunctionApp).
+
 
 1.  Final deployed urls of the application
 [Pharmacy Management System](https://pharmacymanagementclient.azurewebsites.net/).
@@ -34,4 +36,3 @@ j.
 k.
 l.
 7. Link of my project demo video
- 
