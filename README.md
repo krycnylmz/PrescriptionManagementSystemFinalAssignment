@@ -9,6 +9,7 @@
 [Pharmacy Management System](https://pharmacymanagementclient.azurewebsites.net/).
 
 2. Design
+       ![System Digram](/images/diagram.png)
 
 3. Assumptions
 
@@ -18,11 +19,11 @@
 
 5. Data models (i.e an ER)
 6. Tech Stack
-1. Front-end
+7. Front-end
 a. Next.js
 b. Tailwind.css
 c. DaisyUI
-2. Back-end
+1. Back-end
 a. .Net Core Api
 b. Swagger
 c. Azure Cloud Services
@@ -35,4 +36,4 @@ i.
 j.
 k.
 l.
-7. Link of my project demo video
+1. Link of my project demo video
