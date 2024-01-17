@@ -2,7 +2,8 @@
 ##  Github Links For diffrent repos or services
 1. [FrontEnd Repo](https://github.com/krycnylmz/PharmacyManagementFrontEnd).
 2. [Medicine Servis](https://github.com/krycnylmz/MedicineServiceWebApp).
-3. [TimeTrigger Function App to reload all medicines](https://github.com/krycnylmz/ReloadAllMedicinesTimeFunctionApp).
+3. [Pharmacy Servis](https://github.com/krycnylmz/PharmacyService).
+4. [TimeTrigger Function App to reload all medicines](https://github.com/krycnylmz/ReloadAllMedicinesTimeFunctionApp).
 
 
 1.  Final deployed urls of the application
